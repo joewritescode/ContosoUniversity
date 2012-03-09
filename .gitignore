@@ -1,3 +1,4 @@
 ContosoUniversity/bin
 ContosoUniversity/obj
 ContosoUniversity/*.user
+*.suo
